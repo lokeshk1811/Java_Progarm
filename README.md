@@ -1,7 +1,8 @@
-My_java_program
-☕ My Java Programs Repository
+java_program
+☕ Java Programs Repository
 📌 About
 This repository contains my Java practice programs and problem-solving codes. I regularly update this repo with new concepts and coding questions as part of my learning journey.
+_____________________________________________________________________________________________________________________________
 
 🚀 What You'll Find Here
 Core Java Programs
